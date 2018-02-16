@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kodilla-Course.iml" filepath="$PROJECT_DIR$/.idea/modules/Kodilla-Course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kodilla-Course_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Kodilla-Course_main.iml" group="Kodilla-Course" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kodilla-Course_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Kodilla-Course_test.iml" group="Kodilla-Course" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kodilla-Exception.iml" filepath="$PROJECT_DIR$/.idea/modules/Kodilla-Exception.iml" group="Kodilla-Exception" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kodilla-Exception/Kodilla-Exception_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Kodilla-Exception/Kodilla-Exception_main.iml" group="Kodilla-Exception" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kodilla-Exception/Kodilla-Exception_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Kodilla-Exception/Kodilla-Exception_test.iml" group="Kodilla-Exception" />
+    </modules>
+  </component>
+</project>
