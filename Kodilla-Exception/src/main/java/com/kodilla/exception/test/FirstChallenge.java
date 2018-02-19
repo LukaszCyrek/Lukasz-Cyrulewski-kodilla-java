@@ -22,6 +22,9 @@ public class FirstChallenge {
 
             System.out.println(result);
 
+        } catch (Exception e) {
+            System.out.println("Nie dziel przez 0");
+
         }
         finally {
             System.out.println("Try, catch,finaly");

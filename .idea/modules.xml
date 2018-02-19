@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kodilla-Exception.iml" filepath="$PROJECT_DIR$/.idea/modules/Kodilla-Exception.iml" group="Kodilla-Exception" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kodilla-Exception/Kodilla-Exception_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Kodilla-Exception/Kodilla-Exception_main.iml" group="Kodilla-Exception" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kodilla-Exception/Kodilla-Exception_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Kodilla-Exception/Kodilla-Exception_test.iml" group="Kodilla-Exception" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Kodilla-good-patterns.iml" filepath="$PROJECT_DIR$/.idea/modules/Kodilla-good-patterns.iml" />
     </modules>
   </component>
 </project>
