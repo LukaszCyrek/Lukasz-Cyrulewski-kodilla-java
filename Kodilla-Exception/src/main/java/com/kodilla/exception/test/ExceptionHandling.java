@@ -6,9 +6,9 @@ public class ExceptionHandling {
         try {
             secondChallenge.probablyIWillThrowException(3.0 , 2.0);
         } catch (Exception e) {
-            System.out.println("....");
+            System.out.println("to jest wyjątek");
         } finally {
-            System.out.println("sss");
+            System.out.println("Try,catch,finaly");
         }
     }
 }
